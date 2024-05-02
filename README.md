@@ -20,3 +20,24 @@ Float, String, Integers, Boolean
       </code>
 - In Day 2 I was given a project in which i was task to create a Tip calculator
   
+# Day 3
+- On Day I learnt about conditional flow and logical operators.
+
+- if/else statements is used for conditional flow and you can also have nested if/else statements.
+
+- There is an elif statement which also can be chain to if statements multiple times.
+
+- on logical operators, I learnt about the “and” and “or” operator
+
+- The “and” operator is True when both operands result to True otherwise it’s False.
+
+- The “or” operator is True when one operand is either True. It is only False when both operands are False. 
+
+### Also learnt about the comparison operators 
+Which includes 
+- greater than “>”
+- less than “<“
+- greater than or equal to “>=“
+- less than or equal to “<=“
+- equall to “==“
+- not equal to “!=“
