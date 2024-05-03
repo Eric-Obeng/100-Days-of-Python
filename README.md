@@ -41,3 +41,16 @@ Which includes
 - less than or equal to “<=“
 - equall to “==“
 - not equal to “!=“
+
+# Day 4
+- 🍀 I learnt about randomization and Python List
+
+- 🔄 With randomization I learnt about how to import the random module in python so you can generate random values 
+You can you random.randint(0, 5) to generate integers from 0 - 5 inclusively and so on 
+
+- 🔢 As a JavaScript dev I notice Python List is Similar or in a way equal to Arrays in JS. 
+
+- Python list also have it own methods like: append, pop, remove, insert, extend, count, sort etc
+
+- I also worked a Rock 🪨, Paper 📄, Scissors ✂️ project which was very fun and educative 
+
